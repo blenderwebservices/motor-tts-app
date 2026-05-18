@@ -1,0 +1,8 @@
+{
+  "name": "VoxMorph - TTS Pro",
+  "description": "Aplicación de texto a voz profesional con modulación de pitch y velocidad, funcionamiento sin conexión y voces variadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
